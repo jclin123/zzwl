@@ -1,4 +1,4 @@
-package com.jc.com.jc;
+package com.jc;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
